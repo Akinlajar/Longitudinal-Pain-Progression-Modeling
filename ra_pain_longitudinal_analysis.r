@@ -1,7 +1,7 @@
 # set up aand data preparation
  
 
-# assignment aim to get association between DAS28_baseline and pain measured 
+# project aim to get association between DAS28_baseline and pain measured 
 # across times VAS
 pd_dat <- read_rds("PD_dat.RData")
 
